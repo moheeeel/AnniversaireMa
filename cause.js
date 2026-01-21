@@ -1,7 +1,7 @@
  // Reasons database
  const reasons = [
     { 
-        text: "Tu es la personne la plus merveilleuse que je connaisse, et je me considère chanceux de vivre avec toi 💖", 
+        text: "Tu es la personne la plus merveilleuse que je connaisse, et je suis vraiment chanceux de vivre avec toi 💖", 
         emoji: "🌟",
         gif: "gif1.gif"
     },
@@ -11,7 +11,7 @@
         gif: "gif2.gif"
     },
     { 
-        text: "Je te souhaite toutes les merveilles du monde, et tout ce que ton coeur veut au fond✨ ", 
+        text: "Je te souhaite toutes les merveilles du monde, tu le mérites + que tout✨ ", 
         emoji: "💕",
         gif: "gif1.gif"
     },
